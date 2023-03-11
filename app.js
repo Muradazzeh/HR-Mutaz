@@ -55,7 +55,7 @@ HrSystem.prototype.uniqueId = function () {
 
 let ghaziSamer = new HrSystem(1000, " Ghazi Samer ", "Administration", "Senior", "./assets/Ghazi.jpg");
 let lanaAli = new HrSystem(1001, " Lana Ali ", "Finance", "Senior", "./assets/Lana.jpg");
-let tamaraAyoub = new HrSystem(1002, " Tamara Ayoub ", "Marketing", "Senior", "../assets/Tamara.jpg");
+let tamaraAyoub = new HrSystem(1002, " Tamara Ayoub ", "Marketing", "Senior", "./assets/Tamara.jpg");
 let safiWalid = new HrSystem(1003, " Safi Walid ", "Administration", "Mid-Senior", "./assets/Safi.jpg");
 let omarZaid = new HrSystem(1004, " Omar Zaid ", "Development", "Senior", "./assets/Omar.jpg");
 let ranaSaleh = new HrSystem(1005, " Rana Saleh ", "Development", "Junior", "./assets/Rana.jpg");
